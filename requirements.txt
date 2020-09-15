@@ -1,0 +1,7 @@
+os
+pillow
+matplotlib
+numpy
+tensorflow
+keras
+sklearn
